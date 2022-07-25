@@ -33,7 +33,6 @@ const generatePassword = (password = "") => {
     if (password.length < totalChar.value) {
         return generatePassword(password)
     }
-
     passBox.innerText = truncateString(password, totalChar.value);
 }
 
