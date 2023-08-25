@@ -1,3 +1,6 @@
+# Deploy Page
+Click here to try it:  https://rohitraj232.github.io/Random-Password-Generator/
+
 # Random-Password-Generator
 It includes all keyword combinations like numbers, symbols, uppercase, and lowercase alphabets and the password is sufficiently long. The password is going to be random and unique so that it is not easy to guess.
 
